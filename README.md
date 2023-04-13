@@ -4,7 +4,7 @@ This code is a proof of concept for apigee calls.  Ports, config etc can change
 
 ## Pre-req
 - Mongodb installed 
-- an api service running at 3322
+- an api service running at 3322 (in another repo echo-api)
 
 
 ### Add app to apigee
