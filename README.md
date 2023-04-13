@@ -27,8 +27,8 @@ Response:
 
 
 
-### Make un-authenticated call
-curl --location 'http://localhost:3344/abc-test'
+### Make un-authenticated call (basepath /internal)
+curl --location 'http://localhost:3344/internal/abc-test'
 
 ### Make authenticated call
 Use key from first POST call 
